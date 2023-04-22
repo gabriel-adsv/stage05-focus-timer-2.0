@@ -1,4 +1,4 @@
-<h1 align="center"> Stage 05 - FocusTimer</h1>
+<h1 align="center"> Stage 05 - FocusTimer 2.0</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
